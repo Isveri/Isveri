@@ -20,6 +20,9 @@
 
 ## TeamFinder
 
+### Project presentation:
+* [Team Finder Presentation](https://github.com/Isveri/Team-Finder-README)
+
 ### Backend as monolith :
 * [TeamFinderBackend](https://github.com/Isveri/ProjectFinderBackend)
 
